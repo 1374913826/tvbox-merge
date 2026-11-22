@@ -9983,27 +9983,27 @@ https://1905.wdnas.ccwu.cc/relay/huya-660006.m3u8
 https://1905.wdnas.ccwu.cc/relay/huya-kpl.m3u8
 #EXTINF:-1 tvg-id="JJ斗地主双骄杯第二季" tvg-name="JJ斗地主双骄杯第二季" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/0a15da868b363200a2b6.jpg?v=1795303198813&from=source" catchup="none" group-title="虎牙",JJ斗地主双骄杯第二季
 https://1905.wdnas.ccwu.cc/relay/huya-jjworld.m3u8
-#EXTINF:-1 tvg-id="2026PGS" tvg-name="2026PGS" tvg-logo="https://live-cover.msstatic.com/huyalive/78941969-2639420976-11336226772296400896-3120488530-10057-A-0-1/20261122094935.jpg?x-oss-process=image/resize,limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90" catchup="none" group-title="虎牙",2026PGS
+#EXTINF:-1 tvg-id="2026PGS" tvg-name="2026PGS" tvg-logo="https://live-cover.msstatic.com/huyalive/78941969-2639420976-11336226772296400896-3120488530-10057-A-0-1/20261122101940.jpg?x-oss-process=image/resize,limit_0,m_fill,w_338,h_190/sharpen,80/format,jpg/interlace,1/quality,q_90" catchup="none" group-title="虎牙",2026PGS
 https://1905.wdnas.ccwu.cc/relay/huya-660004.m3u8
+#EXTINF:-1 tvg-id="做个快乐的自己" tvg-name="做个快乐的自己" tvg-logo="https://live-cover.msstatic.com/huyalive/1199668582454-1199668582454-5895731113644523520-2399337288364-10057-A-0-1-imgplus/20261122101835.jpg" catchup="none" group-title="虎牙",做个快乐的自己
+https://1905.wdnas.ccwu.cc/relay/huya-485503.m3u8
 #EXTINF:-1 tvg-id="全麦御姐 需要人陪" tvg-name="全麦御姐 需要人陪" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/d0adba28ceed9ca3b160.png?v=1794845405854&from=source" catchup="none" group-title="虎牙",全麦御姐 需要人陪
 https://1905.wdnas.ccwu.cc/relay/huya-672.m3u8
-#EXTINF:-1 tvg-id="【点唱】祝修哥/个体户生日快乐～应聘dd" tvg-name="【点唱】祝修哥/个体户生日快乐～应聘dd" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/43dafc90ab21ed59d345.jpg?v=1795049343363&from=source" catchup="none" group-title="虎牙",【点唱】祝修哥/个体户生日快乐～应聘dd
-https://1905.wdnas.ccwu.cc/relay/huya-573.m3u8
-#EXTINF:-1 tvg-id="玩味4厅-赵神拂袖去清风高福利待遇招主持" tvg-name="玩味4厅-赵神拂袖去清风高福利待遇招主持" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/21de2e3e036cc5ab3b2d.jpg?v=1794876537747&from=source" catchup="none" group-title="虎牙",玩味4厅-赵神拂袖去清风高福利待遇招主持
-https://1905.wdnas.ccwu.cc/relay/huya-123467.m3u8
 #EXTINF:-1 tvg-id="据您附近0.1m主播视频推荐！有趣哥冠！" tvg-name="据您附近0.1m主播视频推荐！有趣哥冠！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/5d40d4b4405f3b33426d.jpg?v=1794876537747&from=source" catchup="none" group-title="虎牙",据您附近0.1m主播视频推荐！有趣哥冠！
 https://1905.wdnas.ccwu.cc/relay/huya-20554306.m3u8
+#EXTINF:-1 tvg-id="该主播距离你100m" tvg-name="该主播距离你100m" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/0c81c7831dae7bc2c097.jpg?v=1795020537327&from=source" catchup="none" group-title="虎牙",该主播距离你100m
+https://1905.wdnas.ccwu.cc/relay/huya-13168.m3u8
+#EXTINF:-1 tvg-id="【点唱】祝修哥/个体户生日快乐～应聘dd" tvg-name="【点唱】祝修哥/个体户生日快乐～应聘dd" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/43dafc90ab21ed59d345.jpg?v=1795049343363&from=source" catchup="none" group-title="虎牙",【点唱】祝修哥/个体户生日快乐～应聘dd
+https://1905.wdnas.ccwu.cc/relay/huya-573.m3u8
+#EXTINF:-1 tvg-id="Ubb&顶级红烧肉CP冠/来看看我吧" tvg-name="Ubb&顶级红烧肉CP冠/来看看我吧" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/08120ad34a3fa36d1dee.jpg?v=1794380780034&from=source" catchup="none" group-title="虎牙",Ubb&顶级红烧肉CP冠/来看看我吧
+https://1905.wdnas.ccwu.cc/relay/huya-31313461.m3u8
 #EXTINF:-1 tvg-id="纯情女大进来陪陪~" tvg-name="纯情女大进来陪陪~" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/e03b264485b731146a19.jpg?v=1794010380110&from=source" catchup="none" group-title="虎牙",纯情女大进来陪陪~
 https://1905.wdnas.ccwu.cc/relay/huya-159316.m3u8
-#EXTINF:-1 tvg-id="一路的妹妹很哇塞！！！" tvg-name="一路的妹妹很哇塞！！！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/881873099fb4c62ad040.jpg?v=1795303198813&from=source" catchup="none" group-title="虎牙",一路的妹妹很哇塞！！！
-https://1905.wdnas.ccwu.cc/relay/huya-635.m3u8
 #EXTINF:-1 tvg-id="i突-奈斯凸米特油" tvg-name="i突-奈斯凸米特油" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/022a6bdd5596c1aa4b9a.jpg?v=1792962056953&from=source" catchup="none" group-title="虎牙",i突-奈斯凸米特油
 https://1905.wdnas.ccwu.cc/relay/huya-92795.m3u8
-#EXTINF:-1 tvg-id="体力不好！不要进" tvg-name="体力不好！不要进" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/00e66bff69c1e0ce111b.jpg?v=1794524783791&from=source" catchup="none" group-title="虎牙",体力不好！不要进
-https://1905.wdnas.ccwu.cc/relay/huya-89135.m3u8
 #EXTINF:-1 tvg-id="小番茄要来了哦！" tvg-name="小番茄要来了哦！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/85a2ed685ea551fd29d8.jpg?v=1795193337350&from=source" catchup="none" group-title="斗鱼",小番茄要来了哦！
 https://1905.wdnas.ccwu.cc/relay/douyu-9263298.m3u8
-#EXTINF:-1 tvg-id="小众宝藏结晶直播间 6657" tvg-name="小众宝藏结晶直播间 6657" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/6979222_src_0947.avif/dy1" catchup="none" group-title="斗鱼",小众宝藏结晶直播间 6657
+#EXTINF:-1 tvg-id="小众宝藏结晶直播间 6657" tvg-name="小众宝藏结晶直播间 6657" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/6979222_src_1018.avif/dy1" catchup="none" group-title="斗鱼",小众宝藏结晶直播间 6657
 https://1905.wdnas.ccwu.cc/relay/douyu-6979222.m3u8
 #EXTINF:-1 tvg-id="重播|PEL巅峰挑战赛总决赛DAY2" tvg-name="重播|PEL巅峰挑战赛总决赛DAY2" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/b9f94536240973a57631.jpg?v=1795164537521&from=source" catchup="none" group-title="斗鱼",重播|PEL巅峰挑战赛总决赛DAY2
 https://1905.wdnas.ccwu.cc/relay/douyu-999.m3u8
@@ -10013,25 +10013,25 @@ https://1905.wdnas.ccwu.cc/relay/douyu-8727119.m3u8
 https://1905.wdnas.ccwu.cc/relay/douyu-24422.m3u8
 #EXTINF:-1 tvg-id="大师局硬核指挥！专业团队冲分教学！" tvg-name="大师局硬核指挥！专业团队冲分教学！" tvg-logo="https://rpic.douyucdn.cn/live-cover/roomCover/2026/11/22/a4736048f395e35607d5e7640fe9bdea.png/dy1" catchup="none" group-title="斗鱼",大师局硬核指挥！专业团队冲分教学！
 https://1905.wdnas.ccwu.cc/relay/douyu-5720533.m3u8
-#EXTINF:-1 tvg-id="冬天到了 该上分了！ 10040721" tvg-name="冬天到了 该上分了！ 10040721" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/10040721_src_0948.avif/dy1" catchup="none" group-title="斗鱼",冬天到了 该上分了！ 10040721
+#EXTINF:-1 tvg-id="冬天到了 该上分了！ 10040721" tvg-name="冬天到了 该上分了！ 10040721" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/10040721_src_1018.avif/dy1" catchup="none" group-title="斗鱼",冬天到了 该上分了！ 10040721
 https://1905.wdnas.ccwu.cc/relay/douyu-10040721.m3u8
 #EXTINF:-1 tvg-id="美测王者八排！！" tvg-name="美测王者八排！！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/d26cc166ee6dfa4fc981.jpg?v=1795164537521&from=source" catchup="none" group-title="斗鱼",美测王者八排！！
 https://1905.wdnas.ccwu.cc/relay/douyu-216555.m3u8
-#EXTINF:-1 tvg-id="【叮当杯】重播" tvg-name="【叮当杯】重播" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/100_src_0947.avif/dy1" catchup="none" group-title="斗鱼",【叮当杯】重播
+#EXTINF:-1 tvg-id="【叮当杯】重播" tvg-name="【叮当杯】重播" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/100_src_1018.avif/dy1" catchup="none" group-title="斗鱼",【叮当杯】重播
 https://1905.wdnas.ccwu.cc/relay/douyu-100.m3u8
-#EXTINF:-1 tvg-id="双倍亲密度双倍亲密度" tvg-name="双倍亲密度双倍亲密度" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/63136_src_0947.avif/dy1" catchup="none" group-title="斗鱼",双倍亲密度双倍亲密度
+#EXTINF:-1 tvg-id="兰林汉：猫宁十点猴哥一点！双倍亲密度！" tvg-name="兰林汉：猫宁十点猴哥一点！双倍亲密度！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/344ad9aac76f2ad64a3c.jpg?v=1794818937826&from=source" catchup="none" group-title="斗鱼",兰林汉：猫宁十点猴哥一点！双倍亲密度！
+https://1905.wdnas.ccwu.cc/relay/douyu-475252.m3u8
+#EXTINF:-1 tvg-id="双倍亲密度双倍亲密度" tvg-name="双倍亲密度双倍亲密度" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/63136_src_1018.avif/dy1" catchup="none" group-title="斗鱼",双倍亲密度双倍亲密度
 https://1905.wdnas.ccwu.cc/relay/douyu-63136.m3u8
 #EXTINF:-1 tvg-id="欢乐时光已经开始了！" tvg-name="欢乐时光已经开始了！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/089644f064f6d2474ae9.jpg?v=1795222152624&from=source" catchup="none" group-title="斗鱼",欢乐时光已经开始了！
 https://1905.wdnas.ccwu.cc/relay/douyu-138243.m3u8
-#EXTINF:-1 tvg-id="轰轰：每天下午两点不见不散" tvg-name="轰轰：每天下午两点不见不散" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/6925114_src_0947.avif/dy1" catchup="none" group-title="斗鱼",轰轰：每天下午两点不见不散
-https://1905.wdnas.ccwu.cc/relay/douyu-6925114.m3u8
 #EXTINF:-1 tvg-id="直播 KNC洲际争霸赛" tvg-name="直播 KNC洲际争霸赛" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/cc9babea959bca3a982c.jpg?v=1795164537521&from=source" catchup="none" group-title="斗鱼",直播 KNC洲际争霸赛
 https://1905.wdnas.ccwu.cc/relay/douyu-1863767.m3u8
-#EXTINF:-1 tvg-id="瓦手上上分， 冲" tvg-name="瓦手上上分， 冲" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/3014399_src_0947.avif/dy1" catchup="none" group-title="斗鱼",瓦手上上分， 冲
+#EXTINF:-1 tvg-id="瓦手上上分， 冲" tvg-name="瓦手上上分， 冲" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/3014399_src_1018.avif/dy1" catchup="none" group-title="斗鱼",瓦手上上分， 冲
 https://1905.wdnas.ccwu.cc/relay/douyu-3014399.m3u8
 #EXTINF:-1 tvg-id="给钻粉上分！！！" tvg-name="给钻粉上分！！！" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/76d7c9c8286efa390404.jpg?v=1795222152624&from=source" catchup="none" group-title="斗鱼",给钻粉上分！！！
 https://1905.wdnas.ccwu.cc/relay/douyu-1165924.m3u8
-#EXTINF:-1 tvg-id="21号晚上9点生日会~" tvg-name="21号晚上9点生日会~" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/479079_src_0947.avif/dy1" catchup="none" group-title="斗鱼",21号晚上9点生日会~
+#EXTINF:-1 tvg-id="21号晚上9点生日会~" tvg-name="21号晚上9点生日会~" tvg-logo="https://rpic.douyucdn.cn/asrpic/261122/479079_src_1018.avif/dy1" catchup="none" group-title="斗鱼",21号晚上9点生日会~
 https://1905.wdnas.ccwu.cc/relay/douyu-479079.m3u8
 #EXTINF:-1 tvg-id="山林从不向四季起誓&nbsp;枯荣随缘" tvg-name="山林从不向四季起誓&nbsp;枯荣随缘" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/ced70a795a9704dd7de8.jpg?v=1795104624908&from=source" catchup="none" group-title="斗鱼",山林从不向四季起誓&nbsp;枯荣随缘
 https://1905.wdnas.ccwu.cc/relay/douyu-6496945.m3u8
@@ -10041,14 +10041,14 @@ https://1905.wdnas.ccwu.cc/relay/douyu-1984024.m3u8
 https://1905.wdnas.ccwu.cc/relay/douyu-5092355.m3u8
 #EXTINF:-1 tvg-id="东北舞蹈甜妹" tvg-name="东北舞蹈甜妹" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/cedb9f2b48b60b988d9d.jpg?v=1794931801017&from=source" catchup="none" group-title="斗鱼",东北舞蹈甜妹
 https://1905.wdnas.ccwu.cc/relay/douyu-12905144.m3u8
-#EXTINF:-1 tvg-id="告诉村长，我是最有毅力的小羊" tvg-name="告诉村长，我是最有毅力的小羊" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/c2e1d4ecc653a0730a1d.jpg?v=1794790137781&from=source" catchup="none" group-title="斗鱼",告诉村长，我是最有毅力的小羊
-https://1905.wdnas.ccwu.cc/relay/douyu-2165978.m3u8
+#EXTINF:-1 tvg-id="甜过初恋 不甜退款" tvg-name="甜过初恋 不甜退款" tvg-logo="https://rpic.douyucdn.cn/live-cover/appCovers/2026/11/09/12894684_20261109081754_small.jpg/dy1" catchup="none" group-title="斗鱼",甜过初恋 不甜退款
+https://1905.wdnas.ccwu.cc/relay/douyu-12894684.m3u8
 #EXTINF:-1 tvg-id="在首尔，手机播" tvg-name="在首尔，手机播" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/f080a0599c0430ee86ea.jpg?v=1795303198813&from=source" catchup="none" group-title="斗鱼",在首尔，手机播
 https://1905.wdnas.ccwu.cc/relay/douyu-7503286.m3u8
+#EXTINF:-1 tvg-id="真心换真心 12907406" tvg-name="真心换真心 12907406" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/43dc9c8d26ab8a76b6fc.jpg?v=1793778447486&from=source" catchup="none" group-title="斗鱼",真心换真心 12907406
+https://1905.wdnas.ccwu.cc/relay/douyu-12907406.m3u8
 #EXTINF:-1 tvg-id="恭喜徐雷哥荣升星耀❤~" tvg-name="恭喜徐雷哥荣升星耀❤~" tvg-logo="https://rpic.douyucdn.cn/live-cover/appCovers/2025/07/19/6464361_20250719163425_small.jpg/dy1" catchup="none" group-title="斗鱼",恭喜徐雷哥荣升星耀❤~
 https://1905.wdnas.ccwu.cc/relay/douyu-6464361.m3u8
-#EXTINF:-1 tvg-id="大师 我悟了 12595288" tvg-name="大师 我悟了 12595288" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/7147436d8e5b0cb2e199.jpg?v=1793837593956&from=source" catchup="none" group-title="斗鱼",大师 我悟了 12595288
-https://1905.wdnas.ccwu.cc/relay/douyu-12595288.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/07e431de3d9ad3a9daa9.png?v=1794847754198&from=source" catchup="none" group-title="上海",东方卫视
 https://1905.wdnas.ccwu.cc/proxy/kankanews-1.m3u8
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/c5e3bc7a49fd62f48975.png?v=1794847754198&from=source" catchup="none" group-title="上海",上海新闻综合
@@ -11549,158 +11549,3 @@ http://211.72.174.95:8112/0.ts
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://1905.wdnas.ccwu.cc/logo-cache/5aa3eba74ee0dff29a3b.png?v=1794759017523&from=source" group-title="台湾",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-更新时间: 2026-11-22 09:58:42（北京时间）仅供娱乐，切勿商用。
-更新时间,#genre#
-2026-11-22 09:58:42,http://kakaxi.indevs.in/Disclaimer.mp4
-央视频道,#genre#
-CCTV1,http://116.237.170.51:7788/608807420$仅供娱乐
-CCTV1,http://182.115.48.225:20002/608807420$切勿商用
-CCTV1,http://113.124.186.195:7788/608807420$追责自负
-CCTV1,http://27.12.12.40:1234/608807420$免费分享
-CCTV1,http://101.35.240.114:88/live.php?id=CCTV1
-CCTV2,http://101.35.240.114:88/live.php?id=CCTV2
-CCTV3,http://101.35.240.114:88/live.php?id=CCTV3
-CCTV4,http://101.35.240.114:88/live.php?id=CCTV4
-CCTV4欧洲,http://27.12.12.40:1234/608807419
-CCTV4欧洲,http://182.115.48.225:20002/608807419
-CCTV4欧洲,http://116.237.170.51:7788/608807419
-CCTV4欧洲,http://113.124.186.195:7788/608807419
-CCTV4美洲,http://182.115.48.225:20002/608807416
-CCTV4美洲,http://113.124.186.195:7788/608807416
-CCTV4美洲,http://116.237.170.51:7788/608807416
-CCTV4美洲,http://27.12.12.40:1234/608807416
-CCTV5,http://101.35.240.114:88/live.php?id=CCTV5
-CCTV5+,http://101.35.240.114:88/live.php?id=CCTV5p
-CCTV6,http://113.124.186.195:7788/624878396
-CCTV6,http://101.35.240.114:88/live.php?id=CCTV6
-CCTV7,http://101.35.240.114:88/live.php?id=CCTV7
-CCTV8,http://101.35.240.114:88/live.php?id=CCTV8
-CCTV9,http://101.35.240.114:88/live.php?id=CCTV9
-CCTV10,http://101.35.240.114:88/live.php?id=CCTV10
-CCTV11,http://27.12.12.40:1234/667987558
-CCTV11,http://101.35.240.114:88/live.php?id=CCTV11
-CCTV12,http://182.115.48.225:20002/673168185
-CCTV12,http://101.35.240.114:88/live.php?id=CCTV12
-CCTV13,http://101.35.240.114:88/live.php?id=CCTV13
-CCTV14,http://101.35.240.114:88/live.php?id=CCTV14
-CCTV15,http://101.35.240.114:88/live.php?id=CCTV15
-CCTV16,http://101.35.240.114:88/live.php?id=CCTV16
-CCTV17,http://101.35.240.114:88/live.php?id=CCTV17
-老故事,http://182.115.48.225:20002/884121956
-老故事,http://27.12.12.40:1234/884121956
-老故事,http://113.124.186.195:7788/884121956
-老故事,http://116.237.170.51:7788/884121956
-中学生,http://182.115.48.225:20002/708869532
-中学生,http://113.124.186.195:7788/708869532
-中学生,http://27.12.12.40:1234/708869532
-中学生,http://116.237.170.51:7788/708869532
-发现之旅,http://182.115.48.225:20002/624878970
-发现之旅,http://27.12.12.40:1234/624878970
-发现之旅,http://116.237.170.51:7788/624878970
-发现之旅,http://113.124.186.195:7788/624878970
-卫视频道,#genre#
-湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视4K
-湖南卫视,http://101.35.240.114:88/live.php?id=湖南卫视
-浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视4K
-浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视
-江苏卫视,http://101.35.240.114:88/live.php?id=江苏卫视
-江苏卫视,http://101.35.240.114:88/live.php?id=江苏卫视4K
-东方卫视,http://101.35.240.114:88/live.php?id=东方卫视
-东方卫视,http://101.35.240.114:88/live.php?id=东方卫视4K
-深圳卫视,http://101.35.240.114:88/live.php?id=深圳卫视4K
-深圳卫视,http://101.35.240.114:88/live.php?id=深圳卫视
-北京卫视,http://113.124.186.195:7788/630287636
-北京卫视,http://116.237.170.51:7788/630287636
-北京卫视,http://101.35.240.114:88/live.php?id=北京卫视
-广东卫视,http://101.35.240.114:88/live.php?id=广东卫视
-广东卫视,http://101.35.240.114:88/live.php?id=广东卫视4K
-东南卫视,http://27.12.12.40:1234/849116810
-东南卫视,http://182.115.48.225:20002/849116810
-东南卫视,http://116.237.170.51:7788/849116810
-东南卫视,http://113.124.186.195:7788/849116810
-东南卫视,http://101.35.240.114:88/live.php?id=东南卫视
-海南卫视,http://101.35.240.114:88/live.php?id=海南卫视
-河北卫视,http://101.35.240.114:88/live.php?id=河北卫视
-河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
-湖北卫视,http://101.35.240.114:88/live.php?id=湖北卫视
-江西卫视,http://101.35.240.114:88/live.php?id=江西卫视
-四川卫视,http://101.35.240.114:88/live.php?id=四川卫视
-四川卫视,http://101.35.240.114:88/live.php?id=四川卫视4K
-重庆卫视,http://116.237.170.51:7788/738910914
-重庆卫视,http://113.124.186.195:7788/738910914
-重庆卫视,http://182.115.48.225:20002/738910914
-重庆卫视,http://27.12.12.40:1234/738910914
-重庆卫视,http://101.35.240.114:88/live.php?id=重庆卫视
-贵州卫视,http://101.35.240.114:88/live.php?id=贵州卫视
-天津卫视,http://101.35.240.114:88/live.php?id=天津卫视
-安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
-山东卫视,http://101.35.240.114:88/live.php?id=山东卫视
-山东卫视,http://101.35.240.114:88/live.php?id=山东卫视4K
-辽宁卫视,http://101.35.240.114:88/live.php?id=辽宁卫视
-黑龙江卫视,http://101.35.240.114:88/live.php?id=黑龙江卫视
-吉林卫视,http://101.35.240.114:88/live.php?id=吉林卫视
-内蒙古卫视,http://101.35.240.114:88/live.php?id=内蒙古卫视
-山西卫视,http://101.35.240.114:88/live.php?id=山西卫视
-陕西卫视,http://101.35.240.114:88/live.php?id=陕西卫视
-甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
-青海卫视,http://101.35.240.114:88/live.php?id=青海卫视
-新疆卫视,http://101.35.240.114:88/live.php?id=新疆卫视
-西藏卫视,http://101.35.240.114:88/live.php?id=西藏卫视
-中国教育1台,http://113.124.186.195:7788/923287154
-中国教育1台,http://116.237.170.51:7788/923287154
-中国教育1台,http://27.12.12.40:1234/923287154
-中国教育1台,http://182.115.48.225:20002/923287154
-中国教育2台,http://113.124.186.195:7788/923287211
-中国教育2台,http://27.12.12.40:1234/923287211
-中国教育2台,http://116.237.170.51:7788/923287211
-中国教育2台,http://182.115.48.225:20002/923287211
-中国教育4台,http://116.237.170.51:7788/923287339
-中国教育4台,http://113.124.186.195:7788/923287339
-中国教育4台,http://27.12.12.40:1234/923287339
-中国教育4台,http://182.115.48.225:20002/923287339
-数字频道,#genre#
-CHC动作电影,http://182.115.48.225:20002/644368714
-CHC动作电影,http://113.124.186.195:7788/644368714
-CHC动作电影,http://27.12.12.40:1234/644368714
-CHC动作电影,http://116.237.170.51:7788/644368714
-CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
-CHC家庭影院,http://182.115.48.225:20002/644368373
-CHC家庭影院,http://27.12.12.40:1234/644368373
-CHC家庭影院,http://116.237.170.51:7788/644368373
-CHC家庭影院,http://113.124.186.195:7788/644368373
-CHC家庭影院,http://101.35.240.114:88/live.php?id=CHC家庭影院
-CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
-重温经典,http://101.35.240.114:88/live.php?id=重温经典
-经典香港电影,http://27.12.12.40:1234/625703337
-经典香港电影,http://182.115.48.225:20002/625703337
-经典香港电影,http://113.124.186.195:7788/625703337
-经典香港电影,http://116.237.170.51:7788/625703337
-抗战经典影片,http://116.237.170.51:7788/617432318
-抗战经典影片,http://27.12.12.40:1234/617432318
-抗战经典影片,http://113.124.186.195:7788/617432318
-抗战经典影片,http://182.115.48.225:20002/617432318
-翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
-凤凰卫视中文台,http://101.35.240.114:88/phenix.php?id=fhzw
-凤凰卫视资讯台,http://101.35.240.114:88/phenix.php?id=fhzx
-凤凰卫视香港台,http://101.35.240.114:88/phenix.php?id=fhhk
-五星体育,http://101.35.240.114:88/live.php?id=五星体育
-快乐垂钓,http://182.115.48.225:20002/961930263
-快乐垂钓,http://113.124.186.195:7788/961930263
-快乐垂钓,http://116.237.170.51:7788/961930263
-快乐垂钓,http://27.12.12.40:1234/961930263
-四海钓鱼,http://27.12.12.40:1234/637444975
-四海钓鱼,http://116.237.170.51:7788/637444975
-四海钓鱼,http://182.115.48.225:20002/637444975
-四海钓鱼,http://113.124.186.195:7788/637444975
-优漫卡通,http://113.124.186.195:7788/626064703
-优漫卡通,http://182.115.48.225:20002/626064703
-优漫卡通,http://27.12.12.40:1234/626064703
-优漫卡通,http://116.237.170.51:7788/626064703
-嘉佳卡通,http://116.237.170.51:7788/614952364
-嘉佳卡通,http://113.124.186.195:7788/614952364
-嘉佳卡通,http://27.12.12.40:1234/614952364
-嘉佳卡通,http://182.115.48.225:20002/614952364
-中国天气,http://27.12.12.40:1234/959986621
-中国天气,http://113.124.186.195:7788/959986621
-中国天气,http://182.115.48.225:20002/959986621
-中国天气,http://116.237.170.51:7788/959986621
