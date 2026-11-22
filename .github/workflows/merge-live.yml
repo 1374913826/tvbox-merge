@@ -1,9 +1,6 @@
 name: Merge Live Sources
 
-on:
-  schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+on: [push, workflow_dispatch, schedule]
 
 permissions:
   contents: write
