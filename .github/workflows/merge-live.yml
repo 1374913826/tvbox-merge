@@ -1,6 +1,10 @@
 name: Merge Live Sources
 
-on: [push, workflow_dispatch, schedule]
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -12,14 +16,21 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Merge sources
+        shell: bash
         run: |
+          set -euo pipefail
           mkdir -p output
           : > output/live.txt
 
           while IFS= read -r url; do
+            url="${url%$'\r'}"
             [ -z "$url" ] && continue
             echo "Fetching: $url"
-            curl -fsSL --retry 3 "$url" | tr -d '\r' >> output/live.txt || echo "Failed: $url" >&2
+
+            if ! curl -fsSL --retry 3 --connect-timeout 15 "$url" \
+              | tr -d '\r' >> output/live.txt; then
+              echo "Failed: $url" >&2
+            fi
             echo >> output/live.txt
           done < sources.txt
 
@@ -31,5 +42,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/live.txt
-          git diff --cached --quiet || git commit -m "Update merged live sources"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update merged live sources"
+            git push
+          else
+            echo "No live source changes"
+          fi
