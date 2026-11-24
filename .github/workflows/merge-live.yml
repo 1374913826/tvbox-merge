@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+# 防止多个任务同时运行导致 git 冲突
+concurrency:
+  group: merge-live-sources
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -22,18 +27,29 @@ jobs:
           mkdir -p output
           : > output/live.txt
 
+          # 检查 sources.txt 是否存在
+          if [ ! -f sources.txt ]; then
+            echo "Error: sources.txt not found!"
+            exit 1
+          fi
+
           while IFS= read -r url; do
             url="${url%$'\r'}"
             [ -z "$url" ] && continue
+            # 忽略注释行（以 # 开头）
+            [[ "$url" == \#* ]] && continue
+            
             echo "Fetching: $url"
 
-            if ! curl -fsSL --retry 3 --connect-timeout 15 "$url" \
+            # 增加了 --max-time 30 防止无限期挂起
+            if ! curl -fsSL --retry 3 --connect-timeout 15 --max-time 30 "$url" \
               | tr -d '\r' >> output/live.txt; then
               echo "Failed: $url" >&2
             fi
             echo >> output/live.txt
           done < sources.txt
 
+          # 过滤空行和去重
           awk 'NF && !seen[$0]++' output/live.txt > output/live.clean.txt
           mv output/live.clean.txt output/live.txt
 
@@ -44,6 +60,8 @@ jobs:
           git add output/live.txt
           if ! git diff --cached --quiet; then
             git commit -m "Update merged live sources"
+            # 拉取最新代码防止 push 被拒
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
             git push
           else
             echo "No live source changes"
